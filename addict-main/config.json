@@ -1,0 +1,11 @@
+{
+  "token": "ODQxOTQwMTg4NzgzMzEyOTM2.YJuD5w.wSKeVutQoCClDRWrAgeVaSaYxTc",
+  "ownerId": "434854155304173609",
+  "bugReportChannelId": "841590201942933505",
+  "feedbackChannelId": "841590201942933505",
+  "serverLogId": "841590201942933505",
+  "apiKeys": {
+    "catApi": "your_API_key_here",
+    "googleApi": "your_API_key_here"
+  }
+}
